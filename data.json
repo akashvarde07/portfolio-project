@@ -1,0 +1,92 @@
+{
+    "home": {
+      "title": "Hello, I'm Shantanu Pattanshetti",
+      "description": "I'm a passionate Mobile Application & Web Developer dedicated to crafting exceptional digital experiences."
+    },
+    "about": {
+      "cards": [
+        {
+          "title": "Diploma In Computer Technology",
+          "description": "Completed Diploma in Computer Technology from Government Polytechnic, Solapur."
+        },
+        {
+          "title": "B-Tech in AI&DS",
+          "description": "Pursuing B-tech in AI&DS from VIT Pune."
+        },
+        {
+          "title": "Mobile Application Developer",
+          "description": "I'm a skilled Mobile Application Developer."
+        }
+      ]
+    },
+    "services": {
+      "cards": [
+        {
+          "title": "Mobile Application Developer",
+          "description": "As a mobile application developer, I have expertise in creating and maintaining apps for platforms like Android."
+        },
+        {
+          "title": "Web Developer",
+          "description": "As a Web Developer, my expertise lies in creating websites and web applications that are accessible across different devices and browsers"
+        },
+        {
+          "title": "Software Developer",
+          "description": "As a software developer, my role expands beyond just mobile apps or websites to encompass a wide range of software solutions."
+        }
+      ]
+    },
+    "skills": {
+      "items": [
+        {
+          "name": "Java",
+          "description": "Proficient in Java programming for mobile and web applications.",
+          "level": "80%"
+        },
+        {
+          "name": "HTML & CSS",
+          "description": "Skilled in creating responsive and accessible web designs.",
+          "level": "90%"
+        },
+        {
+          "name": "JavaScript",
+          "description": "Experienced in JavaScript for dynamic web functionalities.",
+          "level": "70%"
+        },
+        {
+          "name": "Python",
+          "description": "Knowledgeable in building interactive user interfaces using Python.",
+          "level": "70%"
+        },
+        {
+          "name": "C++",
+          "description": "Expertise in developing and maintaining Desktop applications.",
+          "level": "75%"
+        },
+        {
+          "name": "Database Management",
+          "description": "Familiar with database management systems and SQL.",
+          "level": "70%"
+        }
+      ]
+    },
+    "projects": {
+      "items": [
+        {
+          "title": "Restaurant Application",
+          "description": "A restaurant app developed for Android, featuring ordering food, and cuisine selection.",
+          "image": "Image1.jpeg"
+        },
+        {
+          "title": "Portfolio Website",
+          "description": "This personal portfolio website, showcasing my skills and projects, built with HTML, CSS, and Bootstrap.",
+          "image": "Image2.jpeg"
+        },
+        {
+          "title": "WhatsApp Clone",
+          "description": "A full-stack WhatsApp clone web application with chatting, user authentication, and voice call features.",
+          "image": "Image3.jpeg"
+        }
+      ]
+    }
+  }
+  
